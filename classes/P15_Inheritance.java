@@ -23,7 +23,7 @@ class Pc extends Computer{
 //         this.brand = r ;
 //     }
 // }
-                            // *** Multilevel Inheritance Not Possible ***
+                            // *** Multiple Inheritance Not Possible ***
 // class Mouse{
 //     private String brandM;
 //     public String getRAM(){
